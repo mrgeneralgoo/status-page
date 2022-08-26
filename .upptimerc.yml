@@ -4,7 +4,7 @@ repo: status-page
 sites:
   - name: Blog
     url: https://www.chengxiaobai.com
-  - name: CDN
+  - name: Image
     url: https://cdn.chengxiaobai.com
   - name: Blog(Archived)
     url: https://www.chengxiaobai.cn
