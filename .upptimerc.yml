@@ -9,9 +9,9 @@ sites:
   - name: Blog(Archived)
     url: https://www.chengxiaobai.cn
   - name: Proxy-T
-    url: $URL_Proxy_T
+    url: $URL_PROXY_T
   - name: Proxy-V
-    url: $URL_Proxy_V
+    url: $URL_PROXY_V
   - name: RSS
     url: $URL_RSS
 
