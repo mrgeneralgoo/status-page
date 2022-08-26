@@ -22,9 +22,4 @@ status-website:
   faviconSvg: https://www.chengxiaobai.com/images/favicon.svg
   name: Chengxiaobai Status
   introTitle: Chengxiaobai System Status
-  introMessage: This is the system status for the Chengxiaobai service.
-  navbar:
-    - title: Status
-      href: /
-    - title: Blog
-      href: https://www.chengxiaobai.com
+  introMessage: This is the system status for the [Chengxiaobai](https://www.chengxiaobai.com) service.
