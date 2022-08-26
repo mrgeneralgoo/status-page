@@ -1,6 +1,6 @@
 owner: mrgeneralgoo
 repo: status-page
-
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/605.1.15 Uptime/$UP_UA
 sites:
   - name: Blog
     url: https://www.chengxiaobai.com
