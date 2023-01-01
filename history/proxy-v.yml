@@ -1,7 +1,7 @@
 url: $URL_PROXY_V
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-12-31T23:19:30.650Z
+status: up
+code: 200
+responseTime: 358
+lastUpdated: 2023-01-01T07:42:52.206Z
 startTime: Fri Aug 26 2022 09:18:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
