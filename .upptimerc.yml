@@ -2,17 +2,19 @@ owner: mrgeneralgoo
 repo: status-page
 sites:
   - name: Blog
-    url: https://www.chengxiaobai.com
-  - name: Image
-    url: https://cdn.chengxiaobai.com
-  - name: Blog(Archived)
-    url: https://www.chengxiaobai.cn
-  - name: Proxy-T
-    url: $URL_PROXY_T
-  - name: Proxy-V
-    url: $URL_PROXY_V
+    url: $URL_BLOG
+  - name: CDN
+    url: $URL_CDN
+  - name: Proxy-Main
+    url: $URL_PROXY_MAIN
+  - name: Proxy-Backup
+    url: $URL_PROXY_BACK
+  - name: Proxy-Invisible
+    url: $URL_PROXY_INVISIBLE
   - name: RSS
     url: $URL_RSS
+  - name: Blog(Archived)
+    url: $URL_BLOG_ARCHIVED
 
 status-website:
   cname: status.chengxiaobai.com
