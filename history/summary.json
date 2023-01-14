@@ -131,7 +131,7 @@
     "url": "$URL_BLOG_ARCHIVED",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blog-archived",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "92.35%",
     "uptimeWeek": "98.91%",
