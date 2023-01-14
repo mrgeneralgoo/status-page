@@ -131,11 +131,11 @@
     "url": "$URL_BLOG_ARCHIVED",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blog-archived",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 442,
     "timeDay": 366,
@@ -143,7 +143,7 @@
     "timeMonth": 373,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2023-01-14": 11,
+      "2023-01-14": 0,
       "2022-08-26": 177
     }
   }
