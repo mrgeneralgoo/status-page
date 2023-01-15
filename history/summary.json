@@ -60,19 +60,19 @@
     "url": "$URL_PROXY_BACK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "proxy-backup",
-    "status": "down",
-    "uptime": "85.34%",
-    "uptimeDay": "83.41%",
-    "uptimeWeek": "85.34%",
-    "uptimeMonth": "85.34%",
-    "uptimeYear": "85.34%",
-    "time": 113,
-    "timeDay": 107,
-    "timeWeek": 113,
-    "timeMonth": 113,
-    "timeYear": 113,
+    "status": "up",
+    "uptime": "85.13%",
+    "uptimeDay": "83.13%",
+    "uptimeWeek": "85.13%",
+    "uptimeMonth": "85.13%",
+    "uptimeYear": "85.13%",
+    "time": 133,
+    "timeDay": 140,
+    "timeWeek": 133,
+    "timeMonth": 133,
+    "timeYear": 133,
     "dailyMinutesDown": {
-      "2023-01-15": 239
+      "2023-01-15": 243
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "$URL_PROXY_INVISIBLE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "proxy-invisible",
-    "status": "down",
-    "uptime": "85.43%",
-    "uptimeDay": "83.51%",
-    "uptimeWeek": "85.43%",
-    "uptimeMonth": "85.43%",
-    "uptimeYear": "85.43%",
-    "time": 130,
-    "timeDay": 175,
-    "timeWeek": 130,
-    "timeMonth": 130,
-    "timeYear": 130,
+    "status": "up",
+    "uptime": "85.22%",
+    "uptimeDay": "83.23%",
+    "uptimeWeek": "85.22%",
+    "uptimeMonth": "85.22%",
+    "uptimeYear": "85.22%",
+    "time": 152,
+    "timeDay": 187,
+    "timeWeek": 152,
+    "timeMonth": 152,
+    "timeYear": 152,
     "dailyMinutesDown": {
-      "2023-01-15": 237
+      "2023-01-15": 242
     }
   },
   {
@@ -139,8 +139,8 @@
     "status": "down",
     "uptime": "99.64%",
     "uptimeDay": "64.75%",
-    "uptimeWeek": "94.46%",
-    "uptimeMonth": "98.72%",
+    "uptimeWeek": "94.41%",
+    "uptimeMonth": "98.71%",
     "uptimeYear": "99.64%",
     "time": 411,
     "timeDay": 326,
@@ -148,7 +148,7 @@
     "timeMonth": 339,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2023-01-15": 213,
+      "2023-01-15": 217,
       "2023-01-14": 346,
       "2022-08-26": 177
     }
