@@ -1,7 +1,7 @@
 url: $URL_BLOG_ARCHIVED
-status: down
-code: 503
-responseTime: 950
-lastUpdated: 2023-01-18T03:42:49.402Z
+status: up
+code: 200
+responseTime: 262
+lastUpdated: 2023-01-18T03:48:23.181Z
 startTime: Fri Aug 26 2022 09:18:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
