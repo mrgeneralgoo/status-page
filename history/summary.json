@@ -81,11 +81,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "proxy-invisible",
     "status": "up",
-    "uptime": "97.66%",
+    "uptime": "97.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.60%",
-    "uptimeMonth": "97.66%",
-    "uptimeYear": "97.66%",
+    "uptimeMonth": "97.67%",
+    "uptimeYear": "97.67%",
     "time": 237,
     "timeDay": 311,
     "timeWeek": 257,
@@ -136,12 +136,12 @@
     "url": "$URL_BLOG_ARCHIVED",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blog-archived",
-    "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "64.35%",
-    "uptimeWeek": "66.79%",
-    "uptimeMonth": "92.36%",
-    "uptimeYear": "98.43%",
+    "status": "down",
+    "uptime": "98.45%",
+    "uptimeDay": "64.34%",
+    "uptimeWeek": "67.14%",
+    "uptimeMonth": "92.44%",
+    "uptimeYear": "98.45%",
     "time": 368,
     "timeDay": 336,
     "timeWeek": 331,
@@ -155,7 +155,7 @@
       "2023-01-17": 394,
       "2023-01-16": 585,
       "2023-01-15": 427,
-      "2023-01-14": 202
+      "2023-01-14": 167
     }
   }
 ]
