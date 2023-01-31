@@ -104,7 +104,7 @@
     "uptime": "95.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.08%",
+    "uptimeMonth": "95.11%",
     "uptimeYear": "95.11%",
     "time": 641,
     "timeDay": 661,
@@ -136,14 +136,14 @@
     "url": "$URL_BLOG_ARCHIVED",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blog-archived",
-    "status": "up",
-    "uptime": "98.16%",
-    "uptimeDay": "45.39%",
-    "uptimeWeek": "58.32%",
-    "uptimeMonth": "90.41%",
-    "uptimeYear": "98.16%",
+    "status": "down",
+    "uptime": "98.18%",
+    "uptimeDay": "45.84%",
+    "uptimeWeek": "58.80%",
+    "uptimeMonth": "90.52%",
+    "uptimeYear": "98.18%",
     "time": 360,
-    "timeDay": 315,
+    "timeDay": 319,
     "timeWeek": 371,
     "timeMonth": 342,
     "timeYear": 360,
@@ -154,7 +154,7 @@
       "2023-01-28": 933,
       "2023-01-27": 687,
       "2023-01-26": 518,
-      "2023-01-25": 502
+      "2023-01-25": 453
     }
   }
 ]
