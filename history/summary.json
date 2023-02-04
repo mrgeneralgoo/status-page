@@ -136,14 +136,14 @@
     "url": "$URL_BLOG_ARCHIVED",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blog-archived",
-    "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "73.43%",
-    "uptimeWeek": "68.46%",
-    "uptimeMonth": "92.74%",
-    "uptimeYear": "98.64%",
+    "status": "down",
+    "uptime": "98.65%",
+    "uptimeDay": "73.42%",
+    "uptimeWeek": "68.65%",
+    "uptimeMonth": "92.79%",
+    "uptimeYear": "98.65%",
     "time": 356,
-    "timeDay": 333,
+    "timeDay": 331,
     "timeWeek": 355,
     "timeMonth": 341,
     "timeYear": 356,
@@ -154,7 +154,7 @@
       "2023-02-01": 461,
       "2023-01-31": 696,
       "2023-01-30": 559,
-      "2023-01-29": 325
+      "2023-01-29": 306
     }
   }
 ]
