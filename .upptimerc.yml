@@ -3,18 +3,25 @@ repo: status-page
 sites:
   - name: Blog
     url: $URL_BLOG
+    icon: https://www.chengxiaobai.com/favicon.ico
   - name: CDN
     url: $URL_CDN
+    icon: https://www.chengxiaobai.com/favicon.ico
   - name: Proxy-Main
     url: $URL_PROXY_MAIN
+    icon: https://avatars.githubusercontent.com/u/33605505
   - name: Proxy-Backup
     url: $URL_PROXY_BACK
+    icon: https://avatars.githubusercontent.com/u/49637375
   - name: Proxy-Invisible
     url: $URL_PROXY_INVISIBLE
+    icon: https://www.cloudflare.com/favicon.ico
   - name: RSS
     url: $URL_RSS
+    icon: https://rsshub.app/favicon.ico
   - name: Blog(Archived)
     url: $URL_BLOG_ARCHIVED
+    icon: https://www.chengxiaobai.com/favicon.ico
 
 status-website:
   cname: status.chengxiaobai.com
