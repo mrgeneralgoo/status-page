@@ -85,11 +85,11 @@
     "icon": "https://www.cloudflare.com/favicon.ico",
     "slug": "proxy-invisible",
     "status": "up",
-    "uptime": "98.26%",
+    "uptime": "98.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.11%",
-    "uptimeYear": "98.26%",
+    "uptimeYear": "98.27%",
     "time": 887,
     "timeDay": 105,
     "timeWeek": 261,
@@ -152,9 +152,9 @@
     "slug": "blog-archived",
     "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "58.26%",
-    "uptimeWeek": "70.46%",
-    "uptimeMonth": "93.20%",
+    "uptimeDay": "62.99%",
+    "uptimeWeek": "70.23%",
+    "uptimeMonth": "93.15%",
     "uptimeYear": "98.87%",
     "time": 332,
     "timeDay": 269,
@@ -162,12 +162,12 @@
     "timeMonth": 319,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2023-02-25": 601,
+      "2023-02-25": 595,
       "2023-02-24": 562,
       "2023-02-23": 450,
       "2023-02-22": 553,
       "2023-02-21": 447,
-      "2023-02-20": 364
+      "2023-02-20": 392
     }
   }
 ]
