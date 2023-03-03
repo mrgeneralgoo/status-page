@@ -61,11 +61,11 @@
     "icon": "https://avatars.githubusercontent.com/u/49637375",
     "slug": "proxy-backup",
     "status": "up",
-    "uptime": "98.33%",
+    "uptime": "98.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.91%",
-    "uptimeYear": "98.33%",
+    "uptimeYear": "98.34%",
     "time": 471,
     "timeDay": 0,
     "timeWeek": 172,
@@ -150,16 +150,16 @@
     "url": "$URL_BLOG_ARCHIVED",
     "icon": "https://www.chengxiaobai.com/favicon.ico",
     "slug": "blog-archived",
-    "status": "up",
-    "uptime": "98.62%",
-    "uptimeDay": "49.58%",
-    "uptimeWeek": "62.65%",
-    "uptimeMonth": "91.41%",
-    "uptimeYear": "98.62%",
+    "status": "down",
+    "uptime": "98.63%",
+    "uptimeDay": "50.76%",
+    "uptimeWeek": "63.00%",
+    "uptimeMonth": "91.49%",
+    "uptimeYear": "98.63%",
     "time": 329,
-    "timeDay": 310,
+    "timeDay": 311,
     "timeWeek": 292,
-    "timeMonth": 303,
+    "timeMonth": 302,
     "timeYear": 329,
     "dailyMinutesDown": {
       "2023-03-03": 474,
@@ -168,7 +168,7 @@
       "2023-02-28": 573,
       "2023-02-27": 544,
       "2023-02-26": 550,
-      "2023-02-25": 394
+      "2023-02-25": 359
     }
   }
 ]
