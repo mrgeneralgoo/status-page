@@ -111,11 +111,11 @@
     "icon": "https://rsshub.app/favicon.ico",
     "slug": "rss",
     "status": "up",
-    "uptime": "94.11%",
+    "uptime": "94.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "94.11%",
+    "uptimeYear": "94.12%",
     "time": 601,
     "timeDay": 386,
     "timeWeek": 430,
@@ -156,23 +156,23 @@
     "slug": "blog-archived",
     "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "77.04%",
+    "uptimeDay": "76.29%",
     "uptimeWeek": "71.47%",
-    "uptimeMonth": "93.43%",
+    "uptimeMonth": "93.44%",
     "uptimeYear": "99.10%",
     "time": 331,
-    "timeDay": 383,
-    "timeWeek": 370,
+    "timeDay": 381,
+    "timeWeek": 371,
     "timeMonth": 335,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2023-04-05": 136,
+      "2023-04-05": 155,
       "2023-04-04": 250,
       "2023-04-03": 423,
       "2023-04-02": 677,
       "2023-04-01": 458,
       "2023-03-31": 502,
-      "2023-03-30": 429
+      "2023-03-30": 410
     }
   }
 ]
