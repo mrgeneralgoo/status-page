@@ -42,9 +42,9 @@
     "url": "$URL_PROXY_MAIN",
     "icon": "https://avatars.githubusercontent.com/u/33605505",
     "slug": "proxy-main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 296,
     "timeMonth": 309,
     "timeYear": 316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-08": 0
+    }
   },
   {
     "name": "Proxy-Backup",
@@ -156,23 +158,23 @@
     "slug": "blog-archived",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "66.18%",
-    "uptimeWeek": "71.76%",
-    "uptimeMonth": "93.50%",
+    "uptimeDay": "66.57%",
+    "uptimeWeek": "71.56%",
+    "uptimeMonth": "93.45%",
     "uptimeYear": "99.12%",
     "time": 334,
-    "timeDay": 460,
+    "timeDay": 462,
     "timeWeek": 393,
     "timeMonth": 344,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2023-04-08": 231,
+      "2023-04-08": 225,
       "2023-04-07": 502,
       "2023-04-06": 472,
       "2023-04-05": 437,
       "2023-04-04": 250,
       "2023-04-03": 423,
-      "2023-04-02": 533
+      "2023-04-02": 559
     }
   }
 ]
