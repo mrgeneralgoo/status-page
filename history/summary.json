@@ -156,9 +156,9 @@
     "slug": "blog-archived",
     "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "65.66%",
-    "uptimeWeek": "72.65%",
-    "uptimeMonth": "93.71%",
+    "uptimeDay": "69.67%",
+    "uptimeWeek": "72.54%",
+    "uptimeMonth": "93.68%",
     "uptimeYear": "99.20%",
     "time": 342,
     "timeDay": 340,
@@ -166,12 +166,12 @@
     "timeMonth": 376,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2023-04-23": 495,
+      "2023-04-23": 489,
       "2023-04-22": 528,
       "2023-04-21": 461,
       "2023-04-20": 515,
       "2023-04-19": 511,
-      "2023-04-18": 249
+      "2023-04-18": 266
     }
   }
 ]
