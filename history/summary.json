@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 271,
-    "timeDay": 248,
-    "timeWeek": 415,
+    "timeDay": 319,
+    "timeWeek": 429,
     "timeMonth": 355,
     "timeYear": 271,
     "dailyMinutesDown": {
@@ -31,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 45,
+    "timeDay": 52,
     "timeWeek": 50,
     "timeMonth": 50,
     "timeYear": 114,
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
-    "timeDay": 276,
-    "timeWeek": 347,
+    "timeDay": 321,
+    "timeWeek": 366,
     "timeMonth": 328,
     "timeYear": 319,
     "dailyMinutesDown": {}
@@ -67,8 +67,8 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.17%",
     "time": 385,
-    "timeDay": 159,
-    "timeWeek": 247,
+    "timeDay": 188,
+    "timeWeek": 237,
     "timeMonth": 300,
     "timeYear": 385,
     "dailyMinutesDown": {
@@ -93,8 +93,8 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.24%",
     "time": 775,
-    "timeDay": 170,
-    "timeWeek": 282,
+    "timeDay": 240,
+    "timeWeek": 292,
     "timeMonth": 941,
     "timeYear": 775,
     "dailyMinutesDown": {
@@ -117,8 +117,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "94.62%",
     "time": 599,
-    "timeDay": 551,
-    "timeWeek": 623,
+    "timeDay": 612,
+    "timeWeek": 636,
     "timeMonth": 553,
     "timeYear": 599,
     "dailyMinutesDown": {
@@ -154,11 +154,11 @@
     "url": "$URL_BLOG_ARCHIVED",
     "icon": "https://www.chengxiaobai.com/favicon.ico",
     "slug": "blog-archived",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "50.10%",
-    "uptimeWeek": "70.39%",
-    "uptimeMonth": "93.19%",
+    "uptimeDay": "50.24%",
+    "uptimeWeek": "70.60%",
+    "uptimeMonth": "93.23%",
     "uptimeYear": "99.15%",
     "time": 342,
     "timeDay": 415,
@@ -171,7 +171,7 @@
       "2023-04-23": 489,
       "2023-04-22": 528,
       "2023-04-21": 461,
-      "2023-04-20": 304
+      "2023-04-20": 282
     }
   }
 ]
