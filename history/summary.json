@@ -154,15 +154,15 @@
     "url": "$URL_BLOG_ARCHIVED",
     "icon": "https://www.chengxiaobai.com/favicon.ico",
     "slug": "blog-archived",
-    "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "61.18%",
-    "uptimeWeek": "70.07%",
-    "uptimeMonth": "93.11%",
-    "uptimeYear": "99.13%",
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "61.17%",
+    "uptimeWeek": "70.68%",
+    "uptimeMonth": "93.25%",
+    "uptimeYear": "99.15%",
     "time": 342,
-    "timeDay": 374,
-    "timeWeek": 381,
+    "timeDay": 375,
+    "timeWeek": 382,
     "timeMonth": 378,
     "timeYear": 342,
     "dailyMinutesDown": {
@@ -172,7 +172,7 @@
       "2023-04-22": 528,
       "2023-04-21": 461,
       "2023-04-20": 515,
-      "2023-04-19": 330
+      "2023-04-19": 268
     }
   }
 ]
