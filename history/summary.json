@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 275,
     "timeDay": 306,
-    "timeWeek": 266,
-    "timeMonth": 346,
+    "timeWeek": 278,
+    "timeMonth": 344,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2022-10-13": 16
@@ -33,7 +33,7 @@
     "time": 102,
     "timeDay": 46,
     "timeWeek": 42,
-    "timeMonth": 48,
+    "timeMonth": 47,
     "timeYear": 102,
     "dailyMinutesDown": {}
   },
@@ -50,8 +50,8 @@
     "uptimeYear": "100.00%",
     "time": 321,
     "timeDay": 472,
-    "timeWeek": 283,
-    "timeMonth": 339,
+    "timeWeek": 299,
+    "timeMonth": 336,
     "timeYear": 321,
     "dailyMinutesDown": {}
   },
@@ -68,8 +68,8 @@
     "uptimeYear": "99.32%",
     "time": 365,
     "timeDay": 306,
-    "timeWeek": 215,
-    "timeMonth": 265,
+    "timeWeek": 229,
+    "timeMonth": 266,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2023-03-28": 33,
@@ -94,8 +94,8 @@
     "uptimeYear": "99.37%",
     "time": 700,
     "timeDay": 258,
-    "timeWeek": 255,
-    "timeMonth": 278,
+    "timeWeek": 271,
+    "timeMonth": 280,
     "timeYear": 700,
     "dailyMinutesDown": {
       "2023-03-28": 46,
@@ -118,8 +118,8 @@
     "uptimeYear": "95.06%",
     "time": 601,
     "timeDay": 675,
-    "timeWeek": 621,
-    "timeMonth": 625,
+    "timeWeek": 666,
+    "timeMonth": 628,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2023-03-28": 27,
@@ -154,14 +154,14 @@
     "url": "$URL_BLOG_ARCHIVED",
     "icon": "https://www.chengxiaobai.com/favicon.ico",
     "slug": "blog-archived",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "53.75%",
-    "uptimeWeek": "69.83%",
-    "uptimeMonth": "93.06%",
-    "uptimeYear": "99.20%",
+    "status": "down",
+    "uptime": "99.22%",
+    "uptimeDay": "54.43%",
+    "uptimeWeek": "70.44%",
+    "uptimeMonth": "93.20%",
+    "uptimeYear": "99.22%",
     "time": 355,
-    "timeDay": 537,
+    "timeDay": 540,
     "timeWeek": 415,
     "timeMonth": 403,
     "timeYear": 355,
@@ -171,8 +171,7 @@
       "2023-05-15": 396,
       "2023-05-14": 492,
       "2023-05-13": 371,
-      "2023-05-12": 493,
-      "2023-05-11": 1
+      "2023-05-12": 432
     }
   }
 ]
