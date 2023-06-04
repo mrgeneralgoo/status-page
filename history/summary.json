@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 281,
-    "timeDay": 342,
-    "timeWeek": 390,
-    "timeMonth": 346,
+    "timeDay": 300,
+    "timeWeek": 379,
+    "timeMonth": 345,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2022-10-13": 16
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 96,
-    "timeDay": 43,
+    "time": 95,
+    "timeDay": 44,
     "timeWeek": 46,
     "timeMonth": 46,
-    "timeYear": 96,
+    "timeYear": 95,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 330,
-    "timeDay": 502,
-    "timeWeek": 429,
+    "timeDay": 371,
+    "timeWeek": 422,
     "timeMonth": 362,
     "timeYear": 330,
     "dailyMinutesDown": {}
@@ -67,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 372,
-    "timeDay": 305,
-    "timeWeek": 412,
+    "timeDay": 359,
+    "timeWeek": 405,
     "timeMonth": 345,
     "timeYear": 372,
     "dailyMinutesDown": {
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
-    "time": 658,
-    "timeDay": 470,
-    "timeWeek": 336,
-    "timeMonth": 293,
-    "timeYear": 658,
+    "time": 656,
+    "timeDay": 256,
+    "timeWeek": 326,
+    "timeMonth": 292,
+    "timeYear": 656,
     "dailyMinutesDown": {
       "2023-03-28": 46,
       "2023-02-18": 230,
@@ -117,9 +117,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.38%",
     "time": 601,
-    "timeDay": 679,
-    "timeWeek": 650,
-    "timeMonth": 626,
+    "timeDay": 446,
+    "timeWeek": 624,
+    "timeMonth": 620,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2023-03-28": 27,
@@ -154,12 +154,12 @@
     "url": "$URL_BLOG_ARCHIVED",
     "icon": "https://www.chengxiaobai.com/favicon.ico",
     "slug": "blog-archived",
-    "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "66.51%",
-    "uptimeWeek": "68.32%",
-    "uptimeMonth": "92.71%",
-    "uptimeYear": "99.22%",
+    "status": "down",
+    "uptime": "99.23%",
+    "uptimeDay": "66.49%",
+    "uptimeWeek": "68.85%",
+    "uptimeMonth": "92.83%",
+    "uptimeYear": "99.23%",
     "time": 363,
     "timeDay": 401,
     "timeWeek": 413,
@@ -171,8 +171,7 @@
       "2023-06-02": 540,
       "2023-06-01": 357,
       "2023-05-31": 567,
-      "2023-05-30": 586,
-      "2023-05-29": 3
+      "2023-05-30": 535
     }
   }
 ]
