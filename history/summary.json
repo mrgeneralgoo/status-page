@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 293,
     "timeDay": 321,
-    "timeWeek": 339,
-    "timeMonth": 340,
+    "timeWeek": 342,
+    "timeMonth": 346,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2022-10-13": 16
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 83,
     "timeDay": 39,
-    "timeWeek": 48,
+    "timeWeek": 49,
     "timeMonth": 50,
     "timeYear": 83,
     "dailyMinutesDown": {}
@@ -46,11 +46,11 @@
     "uptime": "96.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.74%",
+    "uptimeMonth": "85.75%",
     "uptimeYear": "96.94%",
     "time": 338,
     "timeDay": 372,
-    "timeWeek": 291,
+    "timeWeek": 281,
     "timeMonth": 336,
     "timeYear": 338,
     "dailyMinutesDown": {
@@ -77,8 +77,8 @@
     "uptimeYear": "98.69%",
     "time": 386,
     "timeDay": 319,
-    "timeWeek": 318,
-    "timeMonth": 286,
+    "timeWeek": 302,
+    "timeMonth": 290,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2023-07-02": 458,
@@ -107,8 +107,8 @@
     "uptimeYear": "98.72%",
     "time": 584,
     "timeDay": 366,
-    "timeWeek": 314,
-    "timeMonth": 400,
+    "timeWeek": 306,
+    "timeMonth": 407,
     "timeYear": 584,
     "dailyMinutesDown": {
       "2023-07-02": 464,
@@ -135,8 +135,8 @@
     "uptimeYear": "95.64%",
     "time": 590,
     "timeDay": 607,
-    "timeWeek": 551,
-    "timeMonth": 511,
+    "timeWeek": 545,
+    "timeMonth": 518,
     "timeYear": 590,
     "dailyMinutesDown": {
       "2023-07-02": 234,
@@ -175,15 +175,15 @@
     "url": "$URL_BLOG_ARCHIVED",
     "icon": "https://www.chengxiaobai.com/favicon.ico",
     "slug": "blog-archived",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "77.93%",
-    "uptimeWeek": "70.79%",
-    "uptimeMonth": "93.28%",
+    "uptimeDay": "77.91%",
+    "uptimeWeek": "70.95%",
+    "uptimeMonth": "93.32%",
     "uptimeYear": "99.39%",
     "time": 377,
     "timeDay": 418,
-    "timeWeek": 389,
+    "timeWeek": 388,
     "timeMonth": 409,
     "timeYear": 377,
     "dailyMinutesDown": {
@@ -192,8 +192,7 @@
       "2023-07-25": 417,
       "2023-07-24": 601,
       "2023-07-23": 616,
-      "2023-07-22": 412,
-      "2023-07-21": 17
+      "2023-07-22": 412
     }
   }
 ]
