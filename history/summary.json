@@ -46,7 +46,7 @@
     "uptime": "96.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.54%",
+    "uptimeMonth": "82.67%",
     "uptimeYear": "96.92%",
     "time": 338,
     "timeDay": 220,
@@ -177,22 +177,22 @@
     "slug": "blog-archived",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "60.52%",
-    "uptimeWeek": "70.56%",
-    "uptimeMonth": "93.23%",
+    "uptimeDay": "61.36%",
+    "uptimeWeek": "70.35%",
+    "uptimeMonth": "93.18%",
     "uptimeYear": "99.38%",
     "time": 377,
-    "timeDay": 339,
+    "timeDay": 335,
     "timeWeek": 385,
     "timeMonth": 409,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-07-26": 567,
+      "2023-07-26": 561,
       "2023-07-25": 417,
       "2023-07-24": 601,
       "2023-07-23": 616,
       "2023-07-22": 412,
-      "2023-07-21": 352
+      "2023-07-21": 379
     }
   }
 ]
