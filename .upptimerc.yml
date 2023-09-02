@@ -31,3 +31,5 @@ status-website:
   name: Chengxiaobai Status
   introTitle: Chengxiaobai System Status
   introMessage: This is the system status for the [Chengxiaobai](https://www.chengxiaobai.com) service.
+  apiBaseUrl: https://status.chengxiaobai.com/api/?url=https%3A%2F%2Fapi.github.com
+  userContentBaseUrl: https://status.chengxiaobai.com/api/?url=https%3A%2F%2Fraw.githubusercontent.com
