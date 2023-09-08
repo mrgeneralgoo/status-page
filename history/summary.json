@@ -182,24 +182,24 @@
     "slug": "blog-archived",
     "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "68.36%",
-    "uptimeWeek": "70.32%",
-    "uptimeMonth": "93.17%",
+    "uptimeDay": "69.11%",
+    "uptimeWeek": "70.39%",
+    "uptimeMonth": "93.19%",
     "uptimeYear": "99.43%",
     "time": 400,
-    "timeDay": 515,
-    "timeWeek": 529,
+    "timeDay": 522,
+    "timeWeek": 530,
     "timeMonth": 530,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2023-09-08": 178,
+      "2023-09-08": 194,
       "2023-09-07": 526,
       "2023-09-06": 333,
       "2023-09-05": 460,
       "2023-09-04": 530,
       "2023-09-03": 477,
       "2023-09-02": 454,
-      "2023-09-01": 33
+      "2023-09-01": 11
     }
   }
 ]
