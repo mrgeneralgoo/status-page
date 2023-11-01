@@ -41,11 +41,11 @@
     "icon": "https://avatars.githubusercontent.com/u/33605505",
     "slug": "proxy-main",
     "status": "up",
-    "uptime": "97.88%",
+    "uptime": "97.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.88%",
+    "uptimeYear": "97.89%",
     "time": 354,
     "timeDay": 120,
     "timeWeek": 341,
@@ -73,7 +73,7 @@
     "uptime": "91.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.09%",
+    "uptimeMonth": "95.12%",
     "uptimeYear": "91.91%",
     "time": 391,
     "timeDay": 312,
@@ -165,7 +165,7 @@
     "timeMonth": 587,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2023-11-01": 152,
+      "2023-11-01": 166,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
@@ -243,12 +243,12 @@
     "url": "$URL_BLOG_ARCHIVED",
     "icon": "https://www.chengxiaobai.com/favicon.ico",
     "slug": "blog-archived",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "64.83%",
-    "uptimeWeek": "68.94%",
-    "uptimeMonth": "92.85%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "64.81%",
+    "uptimeWeek": "69.16%",
+    "uptimeMonth": "92.90%",
+    "uptimeYear": "99.41%",
     "time": 394,
     "timeDay": 361,
     "timeWeek": 342,
@@ -262,7 +262,7 @@
       "2023-10-28": 392,
       "2023-10-27": 521,
       "2023-10-26": 555,
-      "2023-10-25": 137
+      "2023-10-25": 115
     }
   }
 ]
