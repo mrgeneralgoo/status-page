@@ -260,22 +260,22 @@
     "slug": "blog-archived",
     "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "68.82%",
-    "uptimeWeek": "72.38%",
+    "uptimeDay": "67.81%",
+    "uptimeWeek": "72.36%",
     "uptimeMonth": "93.64%",
     "uptimeYear": "99.47%",
     "time": 393,
-    "timeDay": 362,
-    "timeWeek": 378,
+    "timeDay": 359,
+    "timeWeek": 377,
     "timeMonth": 379,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2023-12-05": 399,
+      "2023-12-05": 416,
       "2023-12-04": 500,
       "2023-12-03": 681,
       "2023-12-02": 410,
       "2023-12-01": 465,
-      "2023-11-30": 328
+      "2023-11-30": 313
     }
   }
 ]
