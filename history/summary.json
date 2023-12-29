@@ -43,7 +43,7 @@
     "status": "up",
     "uptime": "97.17%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.40%",
+    "uptimeWeek": "96.81%",
     "uptimeMonth": "94.81%",
     "uptimeYear": "97.17%",
     "time": 355,
@@ -81,7 +81,7 @@
     "status": "up",
     "uptime": "92.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.84%",
+    "uptimeWeek": "98.25%",
     "uptimeMonth": "94.95%",
     "uptimeYear": "92.81%",
     "time": 403,
@@ -138,7 +138,7 @@
     "status": "up",
     "uptime": "97.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.72%",
+    "uptimeWeek": "97.13%",
     "uptimeMonth": "94.90%",
     "uptimeYear": "97.92%",
     "time": 487,
@@ -178,7 +178,7 @@
     "status": "up",
     "uptime": "85.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "66.50%",
+    "uptimeWeek": "66.90%",
     "uptimeMonth": "73.30%",
     "uptimeYear": "81.89%",
     "time": 700,
@@ -265,8 +265,7 @@
       "2023-01-10": 124,
       "2023-01-01": 517,
       "2022-12-31": 1440,
-      "2022-12-30": 1440,
-      "2022-12-29": 881
+      "2022-12-30": 1440
     }
   },
   {
