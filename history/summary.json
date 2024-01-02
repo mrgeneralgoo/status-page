@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 335,
-    "timeDay": 402,
-    "timeWeek": 357,
+    "timeDay": 418,
+    "timeWeek": 360,
     "timeMonth": 389,
     "timeYear": 386,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 72,
-    "timeDay": 56,
-    "timeWeek": 49,
+    "timeDay": 58,
+    "timeWeek": 50,
     "timeMonth": 55,
     "timeYear": 72,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "97.21%",
     "time": 355,
     "timeDay": 329,
-    "timeWeek": 321,
+    "timeWeek": 303,
     "timeMonth": 349,
     "timeYear": 355,
     "dailyMinutesDown": {
@@ -85,8 +85,8 @@
     "uptimeMonth": "97.78%",
     "uptimeYear": "92.91%",
     "time": 406,
-    "timeDay": 577,
-    "timeWeek": 604,
+    "timeDay": 563,
+    "timeWeek": 608,
     "timeMonth": 566,
     "timeYear": 406,
     "dailyMinutesDown": {
@@ -142,8 +142,8 @@
     "uptimeMonth": "97.50%",
     "uptimeYear": "97.95%",
     "time": 485,
-    "timeDay": 348,
-    "timeWeek": 310,
+    "timeDay": 337,
+    "timeWeek": 314,
     "timeMonth": 300,
     "timeYear": 485,
     "dailyMinutesDown": {
@@ -182,10 +182,10 @@
     "uptimeMonth": "76.13%",
     "uptimeYear": "82.71%",
     "time": 704,
-    "timeDay": 1034,
-    "timeWeek": 1001,
+    "timeDay": 1024,
+    "timeWeek": 1009,
     "timeMonth": 885,
-    "timeYear": 773,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2023-12-24": 493,
       "2023-12-23": 1440,
@@ -270,12 +270,12 @@
     "url": "$URL_BLOG_ARCHIVED",
     "icon": "https://www.chengxiaobai.com/favicon.ico",
     "slug": "blog-archived",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "63.15%",
-    "uptimeWeek": "71.11%",
-    "uptimeMonth": "93.35%",
-    "uptimeYear": "99.45%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "63.37%",
+    "uptimeWeek": "72.15%",
+    "uptimeMonth": "93.59%",
+    "uptimeYear": "99.47%",
     "time": 390,
     "timeDay": 364,
     "timeWeek": 343,
@@ -287,7 +287,7 @@
       "2023-12-31": 414,
       "2023-12-30": 484,
       "2023-12-29": 548,
-      "2023-12-28": 401
+      "2023-12-28": 296
     }
   }
 ]
