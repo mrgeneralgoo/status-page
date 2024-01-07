@@ -272,22 +272,22 @@
     "slug": "blog-archived",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "65.31%",
-    "uptimeWeek": "71.61%",
-    "uptimeMonth": "93.47%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "66.64%",
+    "uptimeWeek": "71.48%",
+    "uptimeMonth": "93.44%",
+    "uptimeYear": "99.45%",
     "time": 389,
     "timeDay": 329,
     "timeWeek": 329,
     "timeMonth": 354,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2024-01-06": 498,
+      "2024-01-06": 492,
       "2024-01-05": 567,
       "2024-01-04": 382,
       "2024-01-03": 510,
       "2024-01-02": 509,
-      "2024-01-01": 393
+      "2024-01-01": 411
     }
   }
 ]
