@@ -22,6 +22,8 @@ sites:
   - name: Blog(Archived)
     url: $URL_BLOG_ARCHIVED
     icon: https://www.chengxiaobai.com/favicon.ico
+    expectedStatusCodes:
+      - 0
 
 status-website:
   cname: status.chengxiaobai.com
