@@ -1,27 +1,27 @@
 owner: mrgeneralgoo
 repo: status-page
 sites:
-  - name: Blog
+  - name: 📝 Blog
     url: $URL_BLOG
-    icon: https://www.chengxiaobai.com/favicon.ico
-  - name: CDN
+    icon: https://icon.horse/icon/www.chengxiaobai.com
+  - name: ☁️ CDN
     url: $URL_CDN
-    icon: https://www.chengxiaobai.com/favicon.ico
-  - name: Proxy-Main
+    icon: https://icon.horse/icon/www.chengxiaobai.com
+  - name: 🇺🇸 Proxy-US
     url: $URL_PROXY_MAIN
-    icon: https://avatars.githubusercontent.com/u/33605505
-  - name: Proxy-Backup
+    icon: https://icon.horse/icon/xtls.github.io
+  - name: 🇭🇰 Proxy-HK
     url: $URL_PROXY_BACK
-    icon: https://avatars.githubusercontent.com/u/49637375
-  - name: Proxy-Invisible
+    icon: https://icon.horse/icon/hysteria.network
+  - name: 🫡 Proxy-BACKUP
     url: $URL_PROXY_INVISIBLE
-    icon: https://www.cloudflare.com/favicon.ico
-  - name: RSS
+    icon: https://icon.horse/icon/cloudflare.com
+  - name: 📰 RSS
     url: $URL_RSS
-    icon: https://rsshub.app/favicon.ico
-  - name: Blog(Archived)
+    icon: https://icon.horse/icon/rsshub.app
+  - name: 🗃️ Blog(Archived)
     url: $URL_BLOG_ARCHIVED
-    icon: https://www.chengxiaobai.com/favicon.ico
+    icon: https://icon.horse/icon/www.chengxiaobai.com
     expectedStatusCodes:
       - 0
       - 200
@@ -52,5 +52,5 @@ status-website:
   name: Chengxiaobai Status
   introTitle: Chengxiaobai System Status
   introMessage: This is the system status for the [Chengxiaobai](https://www.chengxiaobai.com) service.
-  apiBaseUrl: https://status.chengxiaobai.com/api/?url=https%3A%2F%2Fapi.github.com
-  userContentBaseUrl: https://status.chengxiaobai.com/api/?url=https%3A%2F%2Fraw.githubusercontent.com
+  apiBaseUrl: https://status.chengxiaobai.com/api/?url=https://api.github.com
+  userContentBaseUrl: https://status.chengxiaobai.com/api/?url=https://raw.githubusercontent.com
