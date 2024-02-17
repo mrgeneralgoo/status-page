@@ -54,3 +54,4 @@ status-website:
   introMessage: This is the system status for the [Chengxiaobai](https://www.chengxiaobai.com) service.
   apiBaseUrl: https://status.chengxiaobai.com/api/?url=https://api.github.com
   userContentBaseUrl: https://status.chengxiaobai.com/api/?url=https://raw.githubusercontent.com
+  customBodyHtml: "<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{\"token\": \"37d709e9abf8418e9f2642876ca78aa4\"}'></script>"
