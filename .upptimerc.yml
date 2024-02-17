@@ -1,25 +1,25 @@
 owner: mrgeneralgoo
 repo: status-page
 sites:
-  - name: 📝 Blog
+  - name: Blog 📝
     url: $URL_BLOG
     icon: https://icon.horse/icon/www.chengxiaobai.com
-  - name: ☁️ CDN
+  - name: CDN ☁️
     url: $URL_CDN
     icon: https://icon.horse/icon/www.chengxiaobai.com
-  - name: 🇺🇸 Proxy-US
+  - name: Proxy-Main 🇺🇸
     url: $URL_PROXY_MAIN
     icon: https://icon.horse/icon/xtls.github.io
-  - name: 🇭🇰 Proxy-HK
+  - name: Proxy-Backup 🇭🇰
     url: $URL_PROXY_BACK
     icon: https://icon.horse/icon/hysteria.network
-  - name: 🫡 Proxy-BACKUP
+  - name: Proxy-Invisible 🫡
     url: $URL_PROXY_INVISIBLE
     icon: https://icon.horse/icon/cloudflare.com
-  - name: 📰 RSS
+  - name: RSS 📰
     url: $URL_RSS
     icon: https://icon.horse/icon/rsshub.app
-  - name: 🗃️ Blog(Archived)
+  - name: Blog(Archived) 🗃️
     url: $URL_BLOG_ARCHIVED
     icon: https://icon.horse/icon/www.chengxiaobai.com
     expectedStatusCodes:
