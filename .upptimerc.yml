@@ -6,13 +6,13 @@ sites:
     icon: https://icon.horse/icon/www.chengxiaobai.com
   - name: CDN
     url: $URL_CDN
-    icon: https://icon.horse/icon/www.chengxiaobai.com
+    icon: https://icon.horse/icon/cdn.chengxiaobai.com
   - name: Proxy-Main
     url: $URL_PROXY_MAIN
     icon: https://icon.horse/icon/hysteria.network
   - name: Proxy-Backup
     url: $URL_PROXY_BACK
-    icon: https://icon.horse/icon/www.v2fly.org
+    icon: https://icon.horse/icon/xtls.github.io
   - name: Proxy-Invisible
     url: $URL_PROXY_INVISIBLE
     icon: https://icon.horse/icon/cloudflare.com
