@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 420,
-    "timeDay": 366,
-    "timeWeek": 535,
-    "timeMonth": 510,
-    "timeYear": 443,
+    "time": 422,
+    "timeDay": 873,
+    "timeWeek": 597,
+    "timeMonth": 518,
+    "timeYear": 444,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 57,
-    "timeDay": 44,
-    "timeWeek": 62,
-    "timeMonth": 60,
+    "timeDay": 85,
+    "timeWeek": 65,
+    "timeMonth": 61,
     "timeYear": 59,
     "dailyMinutesDown": {}
   },
@@ -41,15 +41,15 @@
     "icon": "https://icon.horse/icon/hysteria.network",
     "slug": "proxy-main",
     "status": "up",
-    "uptime": "90.44%",
+    "uptime": "90.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.72%",
+    "uptimeYear": "92.54%",
     "time": 366,
-    "timeDay": 410,
-    "timeWeek": 398,
-    "timeMonth": 395,
+    "timeDay": 398,
+    "timeWeek": 388,
+    "timeMonth": 399,
     "timeYear": 378,
     "dailyMinutesDown": {
       "2024-04-01": 208,
@@ -73,8 +73,7 @@
       "2023-08-02": 206,
       "2023-07-29": 61,
       "2023-07-02": 441,
-      "2023-07-01": 1440,
-      "2023-06-30": 1440
+      "2023-07-01": 1440
     }
   },
   {
@@ -83,16 +82,16 @@
     "icon": "https://icon.horse/icon/xtls.github.io",
     "slug": "proxy-backup",
     "status": "up",
-    "uptime": "95.04%",
+    "uptime": "95.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "93.03%",
-    "time": 499,
-    "timeDay": 500,
-    "timeWeek": 1670,
-    "timeMonth": 890,
-    "timeYear": 555,
+    "time": 500,
+    "timeDay": 928,
+    "timeWeek": 623,
+    "timeMonth": 898,
+    "timeYear": 557,
     "dailyMinutesDown": {
       "2024-06-09": 17,
       "2024-03-13": 215,
@@ -128,8 +127,7 @@
       "2023-09-11": 452,
       "2023-08-02": 104,
       "2023-07-02": 458,
-      "2023-07-01": 1440,
-      "2023-06-30": 515
+      "2023-07-01": 1440
     }
   },
   {
@@ -138,16 +136,16 @@
     "icon": "https://icon.horse/icon/cloudflare.com",
     "slug": "proxy-invisible",
     "status": "up",
-    "uptime": "92.82%",
+    "uptime": "92.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.43%",
-    "time": 455,
-    "timeDay": 233,
-    "timeWeek": 347,
-    "timeMonth": 360,
-    "timeYear": 372,
+    "uptimeYear": "93.48%",
+    "time": 456,
+    "timeDay": 509,
+    "timeWeek": 380,
+    "timeMonth": 364,
+    "timeYear": 373,
     "dailyMinutesDown": {
       "2024-03-24": 123,
       "2024-03-14": 308,
@@ -169,8 +167,7 @@
       "2023-07-30": 585,
       "2023-07-29": 760,
       "2023-07-02": 464,
-      "2023-07-01": 1440,
-      "2023-06-30": 514
+      "2023-07-01": 1440
     }
   },
   {
@@ -179,16 +176,16 @@
     "icon": "https://icon.horse/icon/rsshub.app",
     "slug": "rss",
     "status": "up",
-    "uptime": "89.23%",
+    "uptime": "89.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "83.77%",
     "time": 918,
-    "timeDay": 744,
-    "timeWeek": 875,
-    "timeMonth": 929,
-    "timeYear": 1100,
+    "timeDay": 1111,
+    "timeWeek": 910,
+    "timeMonth": 943,
+    "timeYear": 1102,
     "dailyMinutesDown": {
       "2024-06-09": 15,
       "2024-05-18": 21,
@@ -261,8 +258,7 @@
       "2023-09-12": 1440,
       "2023-09-11": 451,
       "2023-07-02": 234,
-      "2023-07-01": 1440,
-      "2023-06-30": 514
+      "2023-07-01": 1440
     }
   },
   {
@@ -277,9 +273,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 404,
-    "timeDay": 0,
-    "timeWeek": 383,
-    "timeMonth": 450,
+    "timeDay": 308,
+    "timeWeek": 368,
+    "timeMonth": 444,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2024-01-20": 206,
